@@ -7,6 +7,7 @@
 - getChange(price, cash): Gets the change in "Change Due: $" format or "Insufficient Funds".
 - triggerPayment(price, cash): Withdraw the change from chash if denominations for change are available.
 - getCurrentCash(): Object of state of current cash.
+- check the demo.js on usage.
 #### VALIDATION
 - Quantities are validated before use.
 #### DEMO

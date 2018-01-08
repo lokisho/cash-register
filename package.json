@@ -1,0 +1,19 @@
+{
+  "name": "cash-register",
+  "version": "1.0.0",
+  "description": "Cash Register Excercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Sanchez - oscarluis.sanchez@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.29.0",
+    "js-yaml": "^3.10.0",
+    "lodash": "^4.17.4"
+  },
+  "engines": {
+    "node": ">=6.12.12"
+  }
+}

@@ -1,4 +1,4 @@
-## CASH REGISTER & PAIRS FOUND EXCERCISE
+## CASH REGISTER & PAIRS FOUND EXCERSISES. 
 ### CASH REGISTER
 #### USAGE
 - require the index.js from the path the project is located.
